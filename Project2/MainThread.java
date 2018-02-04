@@ -9,8 +9,8 @@ import java.io.*;
 import java.util.regex.Pattern;
 
 /**		
-* @author Kavitha Rajendran - kxr161830		
-* 		   Rajkumar Panneer selvam - rxp162130 		
+* @author Kavitha Rajendran
+*         Rajkumar Panneer selvam 		
 *		
 * 		
 * MainThread receives and validates the input, 		
