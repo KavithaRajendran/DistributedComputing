@@ -1,0 +1,5 @@
+How to compile:
+javac MainThread.java
+
+How to execute:
+java MainThread <InputFile>
