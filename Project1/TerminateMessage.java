@@ -1,7 +1,7 @@
 
 /**
- * @author Kavitha Rajendran - kxr161830
- * 		   Rajkumar Panneer selvam - rxp162130 
+ * @author Kavitha Rajendran 
+ * 	   Rajkumar Panneer selvam  
  * 
  * It is used to sent Terminate Message between the nodes 
  * which contains source, destination.
