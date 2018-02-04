@@ -1,4 +1,4 @@
-{csgrads1:~/LearningJava/DC/submission} java MainThread SampleInput
+#java MainThread SampleInput
 Total number of  nodes in the network:10
 root node is:0
 Given root node is part of node list
@@ -64,4 +64,3 @@ My Parent 9      My children  Distance from Root 2
 My Parent 3      My children  Distance from Root 1
 -------------------------------------------------------------------------
  All Nodes terminated . Main Thread Exit
-{csgrads1:~/LearningJava/DC/submission}
