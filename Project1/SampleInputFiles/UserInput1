@@ -1,0 +1,23 @@
+# sample input file for project 1
+# '#' is the comment indicator and from '#' to the end of the line should be ignored
+
+# number of nodes
+9
+
+# node IDs
+10 101 212 223 354 655 536 907 888
+
+# id of the leader
+655
+
+# graph in adjacency matrix form
+# '-1' means there is no edge, '0' means edge with zero weight
+-1 20 10 11 -1 -1 -1 -1 -1
+20 -1 2 -1 2 -1 -1 -1 -1
+10 2 -1 4 3 5 -1 -1 -1
+11 -1 4 -1 -1 -1 6 -1 -1 
+-1 2 3 -1 -1 1 -1 9 -1
+-1 -1 5 -1 1 -1 -1 -1 8
+-1 -1 -1 6 -1 -1 -1 -1 7
+-1 -1 -1 -1 9 -1 -1 -1 1
+-1 -1 -1 -1 -1 8 7 1 -1
