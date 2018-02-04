@@ -11,8 +11,8 @@ import java.util.concurrent.Semaphore;
  * Node has two inboxQueues myInbox, myInbox1 - which it reads both queues alternatively in every round.
  * Also it writes to the neighbor node's queues, alternatively in every round ( if it has to sent message).
  * 
- * @author Kavitha Rajendran - kxr161830
- * 		   Rajkumar Panneer selvam - rxp162130 
+ * @author Kavitha Rajendran
+ * 	   Rajkumar Panneer selvam 
  * 
  * 
  *  */
